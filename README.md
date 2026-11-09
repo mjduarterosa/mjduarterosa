@@ -7,5 +7,6 @@
 - [**Industry**] I worked for MathWorks (makers of MATLAB) as a solutions engineer for the [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html) dev team and for the pharmaceutical industry as Imaging Scientist.
 - [**Software**] I have developed code for the following software projects: [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html), [SPM](https://www.fil.ion.ucl.ac.uk/spm/) and [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/).
 - [**Community**] I’m currently part of the lead team of [Data Science for Social Good Portugal](https://www.dssg.pt/).
+- [**Blog**] Comecei um blog no substack: [data-limite](https://datalimite.substack.com/).
 - [**CV**] Check out my [LinkedIn](https://www.linkedin.com/in/maria-j-duarte-rosa-73754233/) for more info on previous experiences.
 - 📫 Feel free to reach out to me for a chat, possible collaboration or just for exchanging ideas on [LinkedIn](https://www.linkedin.com/in/maria-j-duarte-rosa-73754233/) or md82 (@ aru.ac.uk).
